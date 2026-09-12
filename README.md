@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Portfolio Analysis & Performance Dashboard
+# 🏦 Bank Loan Analytics Dashboard
 
 > An interactive Power BI dashboard designed to analyze bank lending performance, loan portfolio health, repayment behavior, and borrower risk indicators through data-driven insights.
 
